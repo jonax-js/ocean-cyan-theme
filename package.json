@@ -1,0 +1,41 @@
+{
+  "name": "ocean-cyan-color-theme",
+  "displayName": "ocean-cyan-theme",
+  "description": "uma cor nada comun de se ver, ciano ou azul turquisa. Uma cor entre duas. ",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "Versions": "0.0.1",
+  "publisher": "jonasalex",
+  "author": {
+    "name": "jonas alex"
+  },
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "license": "MIT",
+
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonax-js/theme-vscode"
+  },  
+  "keywords": [
+    "dark",
+    "cyan",
+    "green",
+    "azul", 
+    "ciano",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ocean-cyan-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ocean-cyan-theme-theme.json"
+      }
+    ]
+  }
+}
