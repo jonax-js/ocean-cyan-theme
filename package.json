@@ -1,13 +1,13 @@
 {
   "name": "ocean-cyan-color-theme",
   "displayName": "ocean-cyan-theme",
-  "description": "uma cor nada comun de se ver, ciano ou azul turquisa. Uma cor entre duas. ",
-  "version": "0.0.1",
+  "description": "uma cor nada comun de se ver, um verde diferente. ",
+  "version": "0.0.2",
   "icon": "icon.png",
-  "Versions": "0.0.1",
+  "Versions": "0.0.2",
   "publisher": "jonasalex",
   "author": {
-    "name": "jonas alex"
+    "name": "jonasalex"
   },
   "engines": {
     "vscode": "^1.79.0"
@@ -25,9 +25,12 @@
     "dark",
     "cyan",
     "green",
+    "verde",    
     "azul", 
     "ciano",
-    "theme"
+    "theme",   
+    "dark green",
+    "verde escuro"
   ],
   "contributes": {
     "themes": [
