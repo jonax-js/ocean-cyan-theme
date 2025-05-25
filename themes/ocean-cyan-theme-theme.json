@@ -26,7 +26,7 @@
 
         "statusBar.background":"#f06634e8",
         "statusBar.noFolderBackground": "#572375",
-        "statusBar.debuggingBackground": "#ff0000",
+        "statusBar.debuggingBackground": "#4c0000",
 		"statusBar.debuggingForeground": "#ffffffff",
 		"statusBarItem.errorForeground":"#ff0000",
 
@@ -224,7 +224,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#cccc00"
 			}
 		},
 		{
@@ -290,7 +290,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#00FF00"
+				"foreground": "#00ff00"
 			}
 		},
 		{
